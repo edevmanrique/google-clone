@@ -7,13 +7,13 @@
 
 ## Technologies
 
-![Google logo](https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png)
+![HTML and CSS logo](https://i.pinimg.com/originals/d5/bc/80/d5bc803f0ab768736cb0df5c06109c9a.png)
 
 ## How to use Google Clone
 
 **Important!** You need a Linux shell that support Git to download it. I recommend [Git Bash](https://git-scm.com/downloads "Git Bash").
 
-![Google logo](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pixelninja.me%2Fwp-content%2Fuploads%2F2016%2F05%2Fgit-logo.jpg&f=1&nofb=1)
+![Git logo](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pixelninja.me%2Fwp-content%2Fuploads%2F2016%2F05%2Fgit-logo.jpg&f=1&nofb=1)
 
 It's very simple, you have to:
 
