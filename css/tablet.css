@@ -1,0 +1,21 @@
+.search__input-s{
+    width: 684px;
+}
+
+.micro{
+    position: static;
+    margin-right: 20px;
+}
+
+.search-button{
+    position: static;
+    margin-left: 20px;
+}
+
+.header__burguer-menu, .header__navbar{
+    display: none;
+}
+
+.search__buttons{
+    display: flex;
+}
